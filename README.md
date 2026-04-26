@@ -228,18 +228,26 @@ The evaluation system scores ideas using these rules:
 ## Future Enhancements 
 • AI-Based Idea Evaluation: AI analyzes ideas for feasibility, innovation strength, improvement 
   suggestions, and predicts success probability. 
+  
 • Smart Matchmaking System: Automatically connects creators, developers, and investors based on 
   idea relevance and skill compatibility. 
+  
 • Analytics Dashboard: Provides real-time insights into trending ideas, user performance, and 
   investment activity. 
+  
 • Blockchain Protection: Secures idea ownership using timestamps and smart contracts to prevent 
   plagiarism and ensure transparency. 
+  
 • Global Expansion Layer: TAI evolves into a global innovation network where companies post real
   world problems, and users compete to solve them, turning innovation into a continuous global 
   marketplace.
+  
 • Security Enhancements: Implement password hashes instead of plain text to prevent password theft even if database is compromised. Send         verification link during signup to validate email addresses. Reduces fake accounts and enables password recovery features.
+
 • Real Time Notification System: Instant notifications for interests received, responses to offers, and rating updates. Keeps users engaged      without constant checking.
+
 • GUI: Implement an app or website 
+
 • Database Backend: To properly manage and secure data
 
 
@@ -262,7 +270,13 @@ For questions or support regarding this project:
 
 
 ## VISUAL DEMO (for future implementation)
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/b7210568-fabf-42ca-af33-1d538870eba1" />
+<img width="942" height="414" alt="image" src="https://github.com/user-attachments/assets/4a6ca9f9-d51d-44d9-bf22-db7e8fd347ce" />
+
+<img width="1018" height="448" alt="image" src="https://github.com/user-attachments/assets/34568402-2ba3-4874-bde3-ff439815bed1" />
+
+<img width="1032" height="621" alt="image" src="https://github.com/user-attachments/assets/1b137441-9ce8-46da-ace4-7dfe693ff4c1" />
+
+<img width="1214" height="581" alt="image" src="https://github.com/user-attachments/assets/d35859fd-796d-45ba-b33d-e6e9bc978dc5" />
 
 ---
 **© 2024 - Idea Marketplace System - All Rights Reserved**
