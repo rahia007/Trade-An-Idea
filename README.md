@@ -226,15 +226,22 @@ The evaluation system scores ideas using these rules:
 12. **No Pagination** - Large lists may cause terminal scrolling
 
 ## Future Enhancements 
-- Implement password hashing for security
-- Add idea editing and deletion features
-- Create a rating and review system
-- Implement real-time notifications
-- Add CSV export functionality
-- Create a simple GUI using Qt or similar framework
-- Implement database backend (SQLite/MySQL)
-- Add email verification for registration
-- Implement idea collaboration features
+• AI-Based Idea Evaluation: AI analyzes ideas for feasibility, innovation strength, improvement 
+  suggestions, and predicts success probability. 
+• Smart Matchmaking System: Automatically connects creators, developers, and investors based on 
+  idea relevance and skill compatibility. 
+• Analytics Dashboard: Provides real-time insights into trending ideas, user performance, and 
+  investment activity. 
+• Blockchain Protection: Secures idea ownership using timestamps and smart contracts to prevent 
+  plagiarism and ensure transparency. 
+• Global Expansion Layer: TAI evolves into a global innovation network where companies post real
+  world problems, and users compete to solve them, turning innovation into a continuous global 
+  marketplace.
+• Security Enhancements: Implement password hashes instead of plain text to prevent password theft even if database is compromised. Send         verification link during signup to validate email addresses. Reduces fake accounts and enables password recovery features.
+• Real Time Notification System: Instant notifications for interests received, responses to offers, and rating updates. Keeps users engaged      without constant checking.
+• GUI: Implement an app or website 
+• Database Backend: To properly manage and secure data
+
 
 ## Troubleshooting (In Case facing an error)
 
@@ -252,6 +259,10 @@ This project was developed for educational purposes to demonstrate Object-Orient
 For questions or support regarding this project:
 - Email: rahiasarfraz@gmail.com
 - Course: Object-Oriented Programming (OOP)
+
+
+## VISUAL DEMO (for future implementation)
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/b7210568-fabf-42ca-af33-1d538870eba1" />
 
 ---
 **© 2024 - Idea Marketplace System - All Rights Reserved**
