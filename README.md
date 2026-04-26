@@ -225,7 +225,7 @@ The evaluation system scores ideas using these rules:
 11. **Single Category** - Each idea belongs to exactly one category
 12. **No Pagination** - Large lists may cause terminal scrolling
 
-## Future Enhancements (Optional)
+## Future Enhancements 
 - Implement password hashing for security
 - Add idea editing and deletion features
 - Create a rating and review system
@@ -236,7 +236,7 @@ The evaluation system scores ideas using these rules:
 - Add email verification for registration
 - Implement idea collaboration features
 
-## Troubleshooting
+## Troubleshooting (In Case facing an error)
 
 | Issue | Solution |
 |-------|----------|
@@ -247,23 +247,27 @@ The evaluation system scores ideas using these rules:
 | Memory leaks | The program uses proper destructors; run Valgrind to verify |
 
 ## Academic Integrity
-This project was developed for educational purposes to demonstrate Object-Oriented Programming concepts. It is original work and properly cited if any external resources were referenced.
-
+This project was developed for educational purposes to demonstrate Object-Oriented Programming concepts. 
 ## Contact
 For questions or support regarding this project:
-- Email: [Your Email]
-- Course Instructor: [Instructor Name]
+- Email: rahiasarfraz@gmail.com
 - Course: Object-Oriented Programming (OOP)
 
 ---
 **© 2024 - Idea Marketplace System - All Rights Reserved**
 ```
 
----
 
 ## Complete Project Summary
 
 You now have all **13 files** needed for the complete Idea Marketplace System:
+Role-based system (Innovator / Investor)
+Idea posting and browsing
+Search and filtering functionality
+Interest submission system
+Evaluation scoring system
+File-based data persistence
+Proper OOP implementation
 
 | # | File Name | Purpose |
 |---|-----------|---------|
