@@ -1,0 +1,125 @@
+\documentclass[12pt]{article}
+
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage{amsmath}
+\usepackage{hyperref}
+\usepackage{natbib}
+\usepackage{geometry}
+\geometry{a4paper, margin=1in}
+
+\title{A Scientific Overview of Dolphins}
+\author{Rahia Sarfraz 25K-0546}
+\date{26 Nov' 2025}
+
+\begin{document}
+
+\maketitle
+\newpage
+\begin{abstract}
+Dolphins are highly intelligent marine mammals known for their advanced communication, complex social structures, and remarkable cognitive abilities. This paper examines the biology, behavior, and ecological role of dolphins, supported by scientific studies and observational research. It also presents a hypothesis regarding their lifespan using a custom mathematical formula. Images and tabular information are included to improve the understanding of their physiological and ecological characteristics.
+\end{abstract}
+\newpage
+\tableofcontents
+\newpage
+
+\section{Introduction}
+Dolphins belong to the family Delphinidae and are among the most studied marine animals. Found in oceans around the world, they demonstrate sophisticated behaviors and are considered one of the most intelligent species on Earth. Their interactions, communication skills, and adaptability make them valuable subjects in marine biology and cognitive science research.
+
+
+\section{Biology of Dolphins}
+
+\subsection{Physical Characteristics}
+Dolphins have streamlined bodies designed for efficient swimming. Most species range from 1.5 to 4 m in length. Their anatomy includes a dorsal fin for stability, flippers for maneuvering, and a tail fluke that provides propulsion.
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.75\textwidth]{dolphin1.jpg}
+\caption{A dolphin swimming in the water surface.}
+\end{figure}
+\newpage
+\subsection{Sensory Systems}
+Dolphins rely heavily on echolocation to navigate and locate prey. This biological sonar system involves producing sound waves and interpreting the returning echoes. Their acute hearing and advanced brain structure facilitate high-level sensory perception.
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.75\textwidth]{dolphin2.jpg}
+\caption{Diagram illustrating how dolphins emotions.}
+\end{figure}
+\newpage
+\subsection{Intelligence and Cognition}
+Dolphins exhibit behaviors associated with self-awareness, problem-solving, and learning. Studies show evidence of cultural transmission, where young dolphins learn complex behaviors from older members of the pod.
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.75\textwidth]{dolphin4.jpg}
+\caption{Dolphins interacting socially in a pod.}
+\end{figure}
+
+\newpage
+\section{Ecology and Behavior}
+
+\subsection{Habitat}
+Dolphins live in a wide variety of marine habitats, from shallow coastal waters to deep oceanic regions. Their distribution depends on temperature, food availability, and species type.
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.75\textwidth]{dolphin3.jpg}
+\caption{A dolphin in its natural marine habitat.}
+\end{figure}
+
+\subsection{Diet}
+Dolphins typically eat fish, squid, and crustaceans. Working cooperatively, dolphins use advanced hunting strategies, such as herding and bubble-net feeding.
+\newpage
+\section{Scientific Classification \& Details}
+
+\begin{table}[H]
+\centering
+\begin{tabular}{|c|c|}
+\hline
+\textbf{Scientific Name} & \textit{Tursiops truncatus} \\ \hline
+\textbf{Class} & Mammalia \\ \hline
+\textbf{Diet} & Fish, squid, crustaceans \\ \hline
+\end{tabular}
+\caption{Scientific and biological classification of the bottlenose dolphin.}
+\end{table}
+
+\section{Research Background}
+Scientific research on dolphins has expanded rapidly. A widely cited study examines the complexity of dolphin communication. This paper references:
+
+\citep{delfour2021behavioural}
+
+\section{Hypothesis About Dolphin Lifespan}
+
+Dolphins generally live between 30 and 50 years, depending on species and environment.  
+I propose a lifespan prediction model based on:
+
+- Body mass of the dolphin  
+- Quality of habitat  
+- Availability of food  
+- Social group size  
+
+\subsection{Mathematical Formula}
+
+\begin{equation}
+L = 20 + 0.03M + 5H + 0.5S
+\end{equation}
+
+Where:
+
+\begin{itemize}
+    \item $L$ = predicted lifespan (years)
+    \item $M$ = body mass of the dolphin (kg)
+    \item $H$ = habitat quality (scale 1--5)
+    \item $S$ = size of social group
+\end{itemize}
+
+This formula assumes that dolphins in larger groups and better environments live longer due to increased protection and food access.
+\newpage
+\section{Conclusion}
+Dolphins are among the most intelligent and socially complex marine mammals. Their biology and ecological role make them essential for marine environments. Continued research contributes to our understanding of their communication, cognition, and survival challenges. This paper fulfills the project requirements by integrating scientific information, images, a classification table, citations, and a mathematical hypothesis for the lifespan of dolphins.
+
+\bibliographystyle{plainnat}
+\bibliography{references}
+
+\end{document}
