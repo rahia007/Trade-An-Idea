@@ -17,12 +17,6 @@ This project demonstrates key Object-Oriented Programming (OOP) concepts includi
 - **File Handling** (persistent storage using text files)
 - **Dynamic Memory Management** (using new/delete with vectors)
 
-## Group Members
-|      Name      | Student ID |
-|----------------|----------|
-| Rahia Sarfraz  | 25K-0546 |
-| Rumiasa Abassi | 25K-0585 |
-
 
 ## Use Cases
 
